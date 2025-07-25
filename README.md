@@ -1,5 +1,5 @@
 # ES-DE Android Game Covers
-![Collage of high-resolution Android games cover art for ES-DE](https://github.com/nahnotnathan/esde-android-app-covers/blob/main/.github/header-drop1.png?raw=true)
+![Collage of high-resolution Android games cover art for ES-DE](https://github.com/nahnotnathan/esde-android-game-covers/blob/main/.github/header-drop1.png?raw=true)
 
 Welcome to the ES-DE Android Game Cover repository! This unique repository features weekly releases of high resolution cover art for the top Android games. Our mission? We won't rest until we achieve complete coverage of the modern Android gaming library.
 
