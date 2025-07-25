@@ -2,7 +2,7 @@
 ![Collage of high-resolution Android games cover art for ES-DE](https://github.com/nahnotnathan/esde-android-game-covers/blob/main/.github/header-drop1.png?raw=true)
 <br><br><br>
 > [!NOTE]  
-> **Drop One: Founder's Edition** This day one drop contains a carefully curated collection of my personal favorite Android games.
+> **Drop One: Founder's Edition** This day one drop contains a carefully curated collection of covers from my personal favorite Android games.
 
 
 > [!IMPORTANT]
