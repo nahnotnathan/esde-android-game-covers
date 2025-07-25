@@ -3,7 +3,7 @@
 
 Welcome to the ES-DE Android Game Cover repository! This unique repository features weekly releases of high resolution cover art for the top Android games. Our mission? We won't rest until we achieve complete coverage of the modern Android gaming library.
 
-💻 Looking for covers for your apps and emulators? Check out our sister project [ES-DE Android App Covers](https://github.com/nahnotnathan/esde-android-app-covers/)
+💻  Looking for covers for your apps and emulators? Check out our sister project [ES-DE Android App Covers](https://github.com/nahnotnathan/esde-android-app-covers/)
 
 ## Usage
 To start using these covers, simply download the images you want and drop them in your following path:
@@ -18,12 +18,14 @@ To start using these covers, simply download the images you want and drop them i
 - **Free to Use:** All covers in this repository are completely free for personal use.
 
 ## Get Involved
-This is an interactive community project that has two ways to help:
+This is an interactive community project that has two great ways to participate:
 
 **1. Contribute**
+
 If you have moderate Photoshop & Illustrator skills and are comfortable using AI in your design work flow, you can easily help out in just a few minutes each week by contributing cover designs.
 
 **2. Request Your Favorites**
+
 Got a favorite game that we haven't designed yet? Let us know! We actively review suggestions made in the Pull Requests and prioritize suggestions with the highest vote count.
 
 ## Acknowledgements
