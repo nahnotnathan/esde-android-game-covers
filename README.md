@@ -1,13 +1,15 @@
 # ES-DE Android Game Covers
 ![Collage of high-resolution Android games cover art for ES-DE](https://github.com/nahnotnathan/esde-android-game-covers/blob/main/.github/header-drop1.png?raw=true)
-
-
+<br><br><br>
 > [!NOTE]  
 > **Drop One: Founder's Edition** This day one drop contains a carefully curated collection of my personal favorite Android games.
+
+
 > [!IMPORTANT]
 > **Next Drop: Community Edition** The next drop will hero requests from the community. Drop a suggestion into Pull Requests!
 
-
+\
+\
 Welcome to the ES-DE Android Game Cover repository! This unique repository features weekly releases of high resolution cover art for the top Android games. Our mission? We won't rest until we achieve complete coverage of the modern Android gaming library.
 
 💻  Looking for covers for your apps and emulators? Check out our sister project [ES-DE Android App Covers](https://github.com/nahnotnathan/esde-android-app-covers/)
